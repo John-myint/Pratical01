@@ -1,0 +1,117 @@
+.holder {
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 30px;    
+}
+
+.logo {
+    width: 40px;
+    margin-right: 50%;
+}
+
+.MenuItem {
+    color: rgba(0, 0, 0, .55);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 50px;
+    margin: 0 15px;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    text-decoration: none;
+}
+
+.header {
+    width: 60%;
+}
+
+.h1 {
+    font-size: 60px;
+    }
+
+.blockElement {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, .04);
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 320px;
+    height: 36px;
+    padding: 8px 16px;
+}
+
+.login {
+    background-color: #0a7cff;
+    border-radius: 24px;
+    border: none;
+    color: white;
+    padding: 2px 20px 0;
+    height: 40px;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    width: fit-content;
+}
+
+.centerfoot {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.left {
+    display: inline-block;
+    width: 40%;
+    margin-right: 200px;
+}
+
+.right {
+    display: inline-block;
+    width: 40%;
+}
+
+.AppDownloadr {
+    display: block;
+}
+
+.AppStoreimg {
+    width: 20%;
+}
+
+.MSimg {
+    width: 20%;
+}
+
+.Rimg {
+    width: 100%; 
+}
+
+.footerleft {
+    display: inline-block;
+    width: 40%;
+}
+
+.footerright {
+    display: inline-block;
+    width: 55%;
+}
+
+.Policies {
+    margin-right: 20px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.fromMetaimg {
+    width: 20%;
+}
+
+.Meta {
+    font-size: 10px;
+}
+
+.footer {
+    text-align: center;
+}
